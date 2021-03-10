@@ -1,0 +1,2 @@
+(this.webpackJsonpvote4bjp=this.webpackJsonpvote4bjp||[]).push([[4],{26:function(t,s,i){"use strict";i.r(s),s.default='\u0d15\u0d47\u0d30\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d1c\u0d7b \u0d27\u0d7b \u0d05\u0d15\u0d4d\u0d15\u0d57\u0d23\u0d4d\u0d1f\u0d41\u0d15\u0d7e :- <b>47,21,793</b><br><br>- \u0d1c\u0d7b \u0d27\u0d7b \u0d2f\u0d4b\u0d1c\u0d28 \u0d35\u0d46\u0d2c\u0d4d\u0d38\u0d48\u0d31\u0d4d\u0d31\u0d4d<br><a href="https://pmjdy.gov.in/statewise-statistics">https://pmjdy.gov.in/statewise-statistics</a>'}}]);
+//# sourceMappingURL=4.5a25bbf8.chunk.js.map

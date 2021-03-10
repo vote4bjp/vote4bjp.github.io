@@ -1,0 +1,2 @@
+(this.webpackJsonpvote4bjp=this.webpackJsonpvote4bjp||[]).push([[5],{27:function(s,t,p){"use strict";p.r(t),t.default='PM Kisan \u0d15\u0d47\u0d30\u0d33\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d46 \u0d17\u0d41\u0d23\u0d2d\u0d4b\u0d15\u0d4d\u0d24\u0d3e\u0d15\u0d4d\u0d15\u0d7e :- <b>37,00,479</b><br><br>- PM Kisan \u0d35\u0d46\u0d2d\u0d4d\u0d38\u0d48\u0d31\u0d4d\u0d31\u0d4d<br><br><a href="https://pmkisan.gov.in/">https://pmkisan.gov.in/</a>'}}]);
+//# sourceMappingURL=5.86b8b8c3.chunk.js.map
