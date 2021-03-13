@@ -1,0 +1,2 @@
+(this.webpackJsonpvote4bjp=this.webpackJsonpvote4bjp||[]).push([[0],{24:function(e,t,p){"use strict";p.r(t),t.default='"\u0d05\u0d2f\u0d4d\u0d2f\u0d2a\u0d4d\u0d2a\u0d28\u0d41\u0d02 \u0d2e\u0d3e\u0d33\u0d3f\u0d15\u0d2a\u0d4d\u0d2a\u0d41\u0d31\u0d35\u0d41\u0d02 \u0d06\u0d2f\u0d41\u0d33\u0d4d\u0d33 \u0d35\u0d3f\u0d35\u0d3e\u0d39\u0d02 \u0d15\u0d34\u0d3f\u0d1e\u0d4d\u0d1e\u0d41" - <a href="">Video: \u0d2e\u0d31\u0d41\u0d28\u0d3e\u0d1f\u0d7b \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d3f</a>'}}]);
+//# sourceMappingURL=0.0b46be66.chunk.js.map
